@@ -40,6 +40,7 @@ Persist a partner defined by **all** the fields represented by the JSON and rule
 
 You can use this [json](files/pdvs.json) file composed of hundreds of partner information to test your application.
 Below, you can have a look at how these partners might be represented in a map:
+
 ![Partners in map](files/images/pdvs.png)
 
 ### 1.2. Load partner by id:
